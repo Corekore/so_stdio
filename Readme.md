@@ -1,1 +1,1 @@
-Copycat version of stdio.h.
+Copycat version of stdio.h for Linux systems.

@@ -1,1 +1,1 @@
-stdio.h
+Copycat version of stdio.h.
